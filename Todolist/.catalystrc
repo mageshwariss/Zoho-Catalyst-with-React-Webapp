@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "6797000000019001",
+      "name": "Freelance",
+      "domain": {
+        "id": "50027693285",
+        "name": "freelance-60029277609.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60029277609",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

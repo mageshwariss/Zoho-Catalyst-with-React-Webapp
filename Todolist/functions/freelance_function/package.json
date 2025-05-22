@@ -1,0 +1,10 @@
+{
+	"name": "freelance_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "mageshwaris221@gmail.com",
+	"dependencies": {
+		"express": "^5.1.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

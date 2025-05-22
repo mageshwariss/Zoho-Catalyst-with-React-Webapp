@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "targets": [
+      "freelance_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "todo-react-app",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}

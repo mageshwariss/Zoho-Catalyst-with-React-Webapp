@@ -1,0 +1,31 @@
+/* Reset margins for body and paragraph */
+body,
+p {
+  margin: 0;
+}
+
+/* Apply box-sizing and font to all elements */
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Input base styles */
+input {
+  margin: 0;
+  resize: none;
+  border: none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+/* Button base styles */
+button {
+  padding: 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: transparent;
+}
